@@ -1,3 +1,7 @@
+Try here : https://devroopam-react-github-users.netlify.app/login
+
+ATTENTION !! I have used someone else's followers and stats as i do not have much of that while i'm posting this. Peace.
+
 ## Starter Project
 
 - css provided (global styles, styled components)
@@ -47,7 +51,7 @@ version used - "react-router-dom": "^5.2.0",
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
-- [Get User](https://api.github.com/users/wesbos)
+- [Get User](https://api.github.com/users/whoroopamgupta)
 - [Repos](https://api.github.com/users/john-smilga/repos?per_page=100)
 - [Followers](https://api.github.com/users/john-smilga/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
