@@ -1,6 +1,6 @@
-Try here : https://devroopam-react-github-users.netlify.app/login
+Try here : https://devroopam-react-github-users.netlify.app
 
-ATTENTION !! I have used someone else's followers and stats as i do not have much of that while i'm posting this. Peace.
+ATTENTION !! I have used someone else's followers and stats for the landing page as i do not have much of that while i'm posting this. Peace.
 
 ## Starter Project
 
